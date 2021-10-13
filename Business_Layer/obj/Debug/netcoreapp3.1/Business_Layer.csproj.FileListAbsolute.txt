@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.AssemblyInfo.cs
+C:\Users\user\source\repos\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.csproj.CoreCompileInputs.cache

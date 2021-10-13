@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Entity_Layer\bin\Debug\netcoreapp3.1\Entity_Layer.deps.json
+C:\Users\user\source\repos\Entity_Layer\bin\Debug\netcoreapp3.1\Entity_Layer.dll
+C:\Users\user\source\repos\Entity_Layer\bin\Debug\netcoreapp3.1\Entity_Layer.pdb
+C:\Users\user\source\repos\Entity_Layer\obj\Debug\netcoreapp3.1\Entity_Layer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Entity_Layer\obj\Debug\netcoreapp3.1\Entity_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Entity_Layer\obj\Debug\netcoreapp3.1\Entity_Layer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Entity_Layer\obj\Debug\netcoreapp3.1\Entity_Layer.AssemblyInfo.cs
+C:\Users\user\source\repos\Entity_Layer\obj\Debug\netcoreapp3.1\Entity_Layer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Entity_Layer\obj\Debug\netcoreapp3.1\Entity_Layer.dll
+C:\Users\user\source\repos\Entity_Layer\obj\Debug\netcoreapp3.1\Entity_Layer.pdb
